@@ -1,0 +1,16 @@
+M8IGI4vwuwU5XBezela$sSumTKiTd$Ch
+
+Mysql
+Open Shell from xampp
+mysql -u root -p
+create database wordpress;
+show databases; -> To check the DB created or not
+CREATE USER 'test'@'localhost' IDENTIFIED BY 'Passw0rd';
+GRANT ALL PRIVILEGES ON wordpress.* TO 'test'@'localhost';
+
+Wordpress Installation
+
+username: 30brid
+password: Test@30bird
+
+Live@Long
